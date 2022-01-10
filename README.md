@@ -5,9 +5,6 @@
 - A user can filter articles by categories
 - An admin user can fetch the most recent news and UI gets updated
 
-## WEBSITE
-- http://iproudu.com
-
 ## STRUCTURE
 - Customized with **React-Hook-Form, React-Hook, and React-Query**
 - Implemented the build process with **Webpack and Babel**
