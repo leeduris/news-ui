@@ -11,3 +11,6 @@
 - Communicates with app-api via **Axios**
 - Designed the interface with **Material-UI**
 - Incorporated **Nginx and Docker**
+
+## APP-API REPO
+- https://github.com/leeduris/news-api/blob/main/README.md
