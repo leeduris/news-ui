@@ -1,0 +1,9 @@
+version: '3.7'
+
+services: 
+  app-ui:
+    container_name: app-ui
+    build: .
+    env_file: .env
+    ports: 
+      - '3000:80'
